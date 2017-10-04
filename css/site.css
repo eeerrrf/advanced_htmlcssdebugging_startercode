@@ -2,7 +2,8 @@
 body {
   margin: 0;
   font-family: 'Helvetica', sans-serif;
-  color: #888;
+  background-color:red;
+  color: blue;
   line-height: 1.5;
   font-size: 20px;
   text-align: center;
@@ -13,13 +14,13 @@ header {
 }
 
 h1 {
-  color: #286090;
+  color: orange;
 }
 
 img {
-  max-width: 60%;
+  max-width: 100%;
 }
 
 .red-text {
-  color: #d31616;
+  color: orange;
 }
